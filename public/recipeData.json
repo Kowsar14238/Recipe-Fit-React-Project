@@ -1,0 +1,160 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Bolognese",
+        "description": "Classic Italian pasta dish with savory meat sauce.",
+        "ingredient":{
+            "Ingredients": 3,
+            "ingredients-one": "500g ground beef",
+            "ingredients-two": "1 onion, chopped",
+            "ingredients-three": "2 cloves garlic, minced"
+        },
+        "time": "30 minutes",
+        "calories": "600 calories",
+        "image": "https://i.ibb.co/1ZT7kTH/Spaghetti-Bolognese.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Chicken Alfredo",
+        "description": "Creamy pasta dish with grilled chicken and parmesan cheese.",
+        "ingredient":{
+            "Ingredients": 4,
+            "ingredients-one": "300g fettuccine pasta",
+            "ingredients-two": "2 chicken breasts, grilled and sliced",
+            "ingredients-three": "1 cup heavy cream",
+            "ingredients-four": "1/2 cup grated parmesan cheese"
+        },
+        "time": "25 minutes",
+        "calories": "700 calories",
+        "image": "https://i.ibb.co/fn6f9Qr/Chicken-Alfredo.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Vegetable Stir-Fry",
+        "description": "Healthy stir-fry with assorted vegetables and tofu.",
+        "ingredient":{
+            "Ingredients": 5,
+            "ingredients-one": "1 cup broccoli florets",
+            "ingredients-two": "1 cup sliced bell peppers",
+            "ingredients-three": "1 cup sliced carrots",
+            "ingredients-four": "1 cup snow peas",
+            "ingredients-five": "200g firm tofu, diced"
+        },
+        "time": "20 minutes",
+        "calories": "400 calories",
+        "image": "https://i.ibb.co/hHVYtkc/Vegetable-Stir-Fry.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Beef Tacos",
+        "description": "Mexican-inspired tacos with seasoned ground beef and toppings.",
+        "ingredient":{
+            "Ingredients": 4,
+            "ingredients-one": "500g ground beef",
+            "ingredients-two": "1 packet taco seasoning",
+            "ingredients-three": "8 taco shells",
+            "ingredients-four": "1 cup shredded lettuce"
+        },
+        "time": "20 minutes",
+        "calories": "550 calories",
+        "image": "https://i.ibb.co/TRnXH2d/Beef-Tacos.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Caprese Salad",
+        "description": "Refreshing salad with tomatoes, mozzarella, basil, and balsamic glaze.",
+        "ingredient":{
+            "Ingredients": 4,
+            "ingredients-one": "2 large tomatoes, sliced",
+            "ingredients-two": "200g fresh mozzarella, sliced",
+            "ingredients-three": "1/2 cup fresh basil leaves",
+            "ingredients-four": "2 tbsp balsamic glaze"
+        },
+        "time": "15 minutes",
+        "calories": "300 calories",
+        "image": "https://i.ibb.co/Ss7r0YY/Caprese-Salad.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Spinach and Feta Stuffed Chicken",
+        "description": "Tender chicken breasts stuffed with spinach and feta cheese.",
+        "ingredient":{
+            "Ingredients": 5,
+            "ingredients-one": "4 boneless chicken breasts",
+            "ingredients-two": "2 cups fresh spinach",
+            "ingredients-three": "1/2 cup crumbled feta cheese",
+            "ingredients-four": "1 tsp garlic powder",
+            "ingredients-five": "1 tsp dried oregano"
+        },
+        "time": "35 minutes",
+        "calories": "450 calories",
+        "image": "https://i.ibb.co/kS9bV5Z/Spinach-and-Feta-Stuffed-Chicken.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Chocolate Chip Cookies",
+        "description": "Classic homemade cookies with gooey chocolate chips.",
+        "ingredient":{
+            "Ingredients": 6,
+            "ingredients-one": "2 1/4 cups all-purpose flour",
+            "ingredients-two": "1 tsp baking soda",
+            "ingredients-three": "1 cup unsalted butter, softened",
+            "ingredients-four": "3/4 cup granulated sugar",
+            "ingredients-five": "3/4 cup packed brown sugar",
+            "ingredients-six": "2 cups semisweet chocolate chips"
+        },
+        "time": "12 minutes",
+        "calories": "200 calories",
+        "image": "https://i.ibb.co/7v7mwXT/Chocolate-Chip-Cookies.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Greek Salad",
+        "description": "Fresh salad with tomatoes, cucumbers, olives, and feta cheese.",
+        "ingredient":{
+            "Ingredients": 5,
+            "ingredients-one": "2 large tomatoes, diced",
+            "ingredients-two": "1 cucumber, sliced",
+            "ingredients-three": "1/2 cup kalamata olives",
+            "ingredients-four": "1/2 cup crumbled feta cheese",
+            "ingredients-five": "2 tbsp olive oil"
+        },
+        "time": "15 minutes",
+        "calories": "250 calories",
+        "image": "https://i.ibb.co/9H7xW2X/Greek-Salad.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Beef Stir-Fry",
+        "description": "Quick and easy stir-fry with tender beef and colorful vegetables.",
+        "ingredient":{
+            "Ingredients": 6,
+            "ingredients-one": "300g beef sirloin, thinly sliced",
+            "ingredients-two": "1 cup sliced bell peppers",
+            "ingredients-three": "1 cup sliced carrots",
+            "ingredients-four": "1 cup sliced mushrooms",
+            "ingredients-five": "1/2 cup soy sauce",
+            "ingredients-six": "2 tbsp vegetable oil"
+        },
+        "time": "25 minutes",
+        "calories": "500 calories",
+        "image": "https://i.ibb.co/v1w2Mjm/Beef-Stir-Fry.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Vegetarian Pizza",
+        "description": "Delicious pizza topped with assorted vegetables and melted cheese.",
+        "ingredient":{
+            "Ingredients": 5,
+            "ingredients-one": "1 pre-made pizza crust",
+            "ingredients-two": "1/2 cup pizza sauce",
+            "ingredients-three": "1 cup sliced bell peppers",
+            "ingredients-four": "1/2 cup sliced black olives",
+            "ingredients-five": "1 cup shredded mozzarella cheese"
+        },
+        "time": "20 minutes",
+        "calories": "400 calories",
+        "image": "https://i.ibb.co/0Zbm7df/Vegetarian-Pizza.jpg"
+    }
+]
+
