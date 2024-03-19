@@ -1,5 +1,5 @@
 #Live Link:
-https://recipe-fit-react.vercel.app/
+https://fit-recipe.netlify.app/
 
 
 # React + Vite
